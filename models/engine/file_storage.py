@@ -1,12 +1,7 @@
 #!/usr/bin/python3
 
-from asyncore import write
 import json
-from click import open_file
 from os.path import exists
-
-from requests import delete
-from models.base_model import BaseModel
 
 
 class FileStorage:
