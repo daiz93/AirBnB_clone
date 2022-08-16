@@ -1,0 +1,13 @@
+header {
+    height: 70px;
+    width: 100%;
+    border-bottom: solid 1px #CCCCCC;
+    display: grid;
+}
+#logo {
+    position: relative;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+
+}
